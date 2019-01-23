@@ -1,0 +1,9 @@
+[submodule "Play_To_Learn_Mobile"]
+	path = Play_To_Learn_Mobile
+	url = https://github.com/Obibal/Play_To_Learn_Mobile
+[submodule "Play_To_Learn_Web"]
+	path = Play_To_Learn_Web
+	url = https://github.com/Obibal/Play_To_Learn_Web
+[submodule "Play_To_Learn_Server"]
+	path = Play_To_Learn_Server
+	url = https://github.com/Obibal/Play_To_Learn_Server
